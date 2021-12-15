@@ -47,10 +47,12 @@ a:hover {
 
 .logo-container {
   background-color: #001529;
-  display: flex;
+  /* display: flex; */
+  /* display: inline; */
   padding: 20px;
   align-items: center;
   width: 100%;
+  /* margin: 10px; */
 }
 .logo {
   margin: 0 0 0 15px;
